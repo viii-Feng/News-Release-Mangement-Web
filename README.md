@@ -1,7 +1,7 @@
 # 项目说明
 
 1. `web-admin`是后台管理系统项目（前端
-2. `web-company`是公司门户网站项目（
+2. `web-company`是公司门户网站项目（前端
 3. `web-server`是服务端（node
 
 ## 安装
